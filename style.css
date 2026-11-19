@@ -1,0 +1,13 @@
+#container {
+    width: 640px;
+    height: 640px;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square {
+    aspect-ratio: 1;
+    box-sizing: border-box;
+    border: 1px solid #b3b3b3;
+}
